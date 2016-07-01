@@ -1,0 +1,45 @@
+body, html {
+    margin: 0;
+    padding: 10px;
+    font-size: 12px;
+    font-family: Verdana, sans-serif;
+}
+
+.matchContainerLink {
+	color: black;
+	text-decoration: none;
+}
+
+.matchContainer {
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+.matchChampImg {
+	width: 120px;
+}
+
+.matchSpells {
+	display: inline-block;
+}
+
+.matchSpellpellImg {
+	display: block;
+	width: 60px;
+}
+
+.matchDate {
+	display: inline-block;
+	font-size: 40px;
+	padding: 0;
+}
+
+.green {
+	background-color: #80ff80;
+}
+
+.red {
+	background-color: #ff8080;
+}
