@@ -10,3 +10,12 @@ Uit deze lijst is het mogelijk om een match te kiezen, om daarvan de details te 
 Daarnaast is het mogelijk om de totale eindstand van de game te zien, met de algemene resultaten.
 
 In de lijst met resultaten per speler is het ook mogelijk om naar een profiel van een speler te gaan, door op deze speler te klikken. Hier kan je dan zijn ranks zien, meest gespeelde karakters en veel meer.
+
+LET OP: Voor het testen dient u bestaande League of Legends gebruikersnamen in te vullen.
+Aangezien u deze naar alle waarschijnlijkheid niet in uw bezit heeft, kunt u gebruik maken van een van de onderstaande gebruikersnamen:
+- mentozer
+- keesdekamerplant
+- derendis
+- Mr Sleepy Paws
+- Shinjin
+- Ziekfort
